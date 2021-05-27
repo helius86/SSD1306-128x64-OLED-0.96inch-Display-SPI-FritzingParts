@@ -27,7 +27,7 @@ I2C OLED SVG
 
 SPI OLED SVG
 
-<img src="https://raw.githubusercontent.com/helius86/ImageRepo/main/oledSPIgithub.png?token=APN5Q7HLXH4PT56JYQV4OZDAV5XOS" alt="..." style="zoom:16%;" />
+<img src="https://user-images.githubusercontent.com/64739452/119813252-e5d4bf00-be9d-11eb-95cb-455a03351fbb.png" alt="..." style="zoom:16%;" />
 
 
 
