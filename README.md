@@ -1,13 +1,11 @@
 <div align="center">
 
 
-![SSD1306 0.96in 128x64 I2C Monochrome OLED Display](https://user-images.githubusercontent.com/65624234/97210029-5d574880-1800-11eb-9eda-309db445d087.jpg)
-
-</div>
+![SSD1306 0.96in 128x64 I2C Monochrome OLED Display](https://raw.githubusercontent.com/helius86/ImageRepo/main/OLEDexampleGithub.jpg?token=APN5Q7E3B23NDYQ37VUF24DAV5XLQ)
 
 # Fritzing-Parts-SSD1306-0.96in-128x64-SPI-Monochrome-OLED-Display
 
-SSD1306 0.96in 128x64 I2C Monochrome OLED Display
+SSD1306 0.96in 128x64 SPI Monochrome OLED Display
 
 ### Referenced from  the following websites
 
@@ -15,11 +13,9 @@ SSD1306 0.96in 128x64 I2C Monochrome OLED Display
 - [Fritzing forum/Terms of Service](https://forum.fritzing.org/tos) 
 - https://github.com/nekocodeX/Fritzing-Parts-SSD1306-0.96in-128x64-I2C-Monochrome-OLED-Display#readme
 
-
-
 ### Content
 
-The original fritzing parts posted in the forum works with I2C therefore there are only 4 ports on the OLED. We modified the fritzing parts and made it working with SPI (which has 7 ports)
+The original fritzing parts posted in the forum works with I2C therefore there are only 4 ports on the OLED. We modified the fritzing parts and made it working with SPI (which has 7 ports).
 
 I2C OLED SVG
 
@@ -31,5 +27,14 @@ I2C OLED SVG
 
 SPI OLED SVG
 
-<img src="C:\Users\danie\Desktop\QQ图片20210526050058.png" alt="QQ图片20210526050058" style="zoom: 16%;" />
+<img src="https://raw.githubusercontent.com/helius86/ImageRepo/main/oledSPIgithub.png?token=APN5Q7HLXH4PT56JYQV4OZDAV5XOS" alt="..." style="zoom:16%;" />
 
+
+
+The final view of the OLED working with SPI on a breadboard presents as below
+
+<img src="https://raw.githubusercontent.com/helius86/ImageRepo/main/OLEDFritzingGithub.png?token=APN5Q7FZUPJYTR6AKNT7Y7TAV5XNM" alt="..." style="zoom: 67%;" />
+
+
+
+To use the .fzpz file you just have to open Fritzing.exe and import the .fzpz file to "My parts". After importing, drag the part onto the breadboard when you want to use it.
