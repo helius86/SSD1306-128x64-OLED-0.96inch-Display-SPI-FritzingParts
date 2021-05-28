@@ -1,13 +1,14 @@
-<div align="center">
+<div align="left">
 
-
-![SSD1306 0.96in 128x64 I2C Monochrome OLED Display](https://github.com/helius86/SSD1306-128x64-OLED-0.96inch-Display-SPI-FritzingParts/blob/main/Images/OLEDexampleGithub.jpg?raw=true)
-
-
+<img src="https://github.com/helius86/SSD1306-128x64-OLED-0.96inch-Display-SPI-FritzingParts/blob/main/Images/OLEDexampleGithub.jpg?raw=true" width = "80%" />
 
 # Fritzing-Parts-SSD1306-0.96in-128x64-SPI-Monochrome-OLED-Display
 
+
+
 SSD1306 0.96in 128x64 SPI Monochrome OLED Display
+
+
 
 ## :bulb: Referenced from  the following websites
 
@@ -33,13 +34,17 @@ The original fritzing parts posted in the forum works with I2C therefore there a
 
 * SPI OLED SVG
 
-<img src="https://github.com/helius86/SSD1306-128x64-OLED-0.96inch-Display-SPI-FritzingParts/blob/main/Images/oledSPIgithub.png?raw=true" alt="..." style="zoom:16%;" />
+<img src="https://github.com/helius86/SSD1306-128x64-OLED-0.96inch-Display-SPI-FritzingParts/blob/main/Images/oledSPIgithub.png?raw=true" width = "12%" />
+
+
 
 
 
 The final view of the OLED working with SPI on a breadboard presents as below
 
-<img src="https://github.com/helius86/SSD1306-128x64-OLED-0.96inch-Display-SPI-FritzingParts/blob/main/Images/OLEDFritzingGithub.png?raw=true" alt="..." style="zoom: 67%;" />
+<img src="https://github.com/helius86/SSD1306-128x64-OLED-0.96inch-Display-SPI-FritzingParts/blob/main/Images/OLEDFritzingGithub.png?raw=true" width = "45%" />
+
+
 
 
 
