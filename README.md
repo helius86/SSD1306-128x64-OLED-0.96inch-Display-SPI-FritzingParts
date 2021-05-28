@@ -3,6 +3,8 @@
 
 ![SSD1306 0.96in 128x64 I2C Monochrome OLED Display](https://github.com/helius86/SSD1306-128x64-OLED-0.96inch-Display-SPI-FritzingParts/blob/main/Images/OLEDexampleGithub.jpg?raw=true)
 
+
+
 # Fritzing-Parts-SSD1306-0.96in-128x64-SPI-Monochrome-OLED-Display
 
 SSD1306 0.96in 128x64 SPI Monochrome OLED Display
