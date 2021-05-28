@@ -38,9 +38,7 @@ The original fritzing parts posted in the forum works with I2C therefore there a
 
 <div align = center><img src="https://github.com/helius86/SSD1306-128x64-OLED-0.96inch-Display-SPI-FritzingParts/blob/main/Images/oledSPIgithub.png?raw=true" width="150" height="150" />
 
-   
-
-
+​    
 
 <div align = left>The final view of the OLED working with SPI on a breadboard presents as below
 
