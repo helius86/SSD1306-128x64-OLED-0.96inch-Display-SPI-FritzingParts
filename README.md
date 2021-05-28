@@ -22,8 +22,6 @@ SSD1306 0.96in 128x64 SPI Monochrome OLED Display
 
 ## :package: ​Content
 
-***
-
 The original fritzing parts posted in the forum works with I2C therefore there are only 4 ports on the OLED. We modified the fritzing parts and made it working with SPI (which has 7 ports).
 
 ​    
@@ -53,8 +51,6 @@ The original fritzing parts posted in the forum works with I2C therefore there a
 <div align = left>
 
 ## :scroll: ​Instructions
-
-***
 
 <div align = left>To use the .fzpz file you just have to open Fritzing.exe and import the .fzpz file to "My parts". After importing, drag the part onto the breadboard when you want to use it.
 
