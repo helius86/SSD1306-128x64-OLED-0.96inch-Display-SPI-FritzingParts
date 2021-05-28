@@ -32,9 +32,7 @@ The original fritzing parts posted in the forum works with I2C therefore there a
 
 <div align = center><img src="https://user-images.githubusercontent.com/65624234/97208048-0badbe80-17fe-11eb-9293-06a3da4a0f5b.png" width="150" height="150" />
 
-
-
-
+</div>
 
 * <div align = left>SPI OLED SVG
 
@@ -42,7 +40,7 @@ The original fritzing parts posted in the forum works with I2C therefore there a
 
 
 
-
+</div>
 
 <div align = left>The final view of the OLED working with SPI on a breadboard presents as below
 
